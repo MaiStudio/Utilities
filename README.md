@@ -4,3 +4,6 @@
 
 - [Linux] [mNetAssist](https://github.com/busyluo/NetAssistant) from  busyluo
 
+- [Windows] [WinObj](https://live.sysinternals.com/) from live.sysinternals.com
+- [Windows] [FileTest](http://www.zezula.net/en/fstools/filetest.html) from www.zezula.net
+
