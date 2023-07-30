@@ -7,4 +7,7 @@
 - [Windows] DriverMonitor from [DriverStudio](http://www.compuware.com/products/driverstudio)
 - [Windows] [DDKWizard](https://sourceforge.net/projects/ddkwizard/files/legacy-releases/) [ddkbuild.cmd](https://sourceforge.net/projects/ddkbuild/) from sourceforge
 - [Windows] 64Signer
-- 
+- [Windows] osr driver loader from www.osronline.com
+
+- [Windows] reshacker from http://www.angusj.com/resourcehacker/
+
